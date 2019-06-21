@@ -5,7 +5,7 @@ I'll be uploading utilities I use for my research here. Please feel free to use 
 ## reigns.json
 This json file contains reign information for of the emperors from Imperial China, derived from this Wikipedia list:
 https://en.wikipedia.org/wiki/List_of_Chinese_monarchs
-It is not complete and all the cavaets that apply to any information from Wikipedia apply here!
+It is not complete and all the cavaets that apply to any information from Wikipedia apply here! Used in accordance with the CC BY-SA 3.0 license.
 
 This json object contains two sub-objects, a "reigns" object that contains an object with the following structure:
 {Dynasty: {Personal Name:{ Reign Dates, Era Names,Posthumous Name, Temple Name}}}
